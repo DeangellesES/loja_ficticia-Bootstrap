@@ -1,4 +1,4 @@
-# <h1 align="center">Site de uma loja desenvolvida durante um curso de Bootstrap responsivo para todas as telas.</h1>
+# <h1 align="center">Site de uma loja desenvolvida durante um curso de Bootstrap, responsivo para todas as telas.</h1>
 
 <br>
 <h3 align="center">Tela para desktop</h3>
