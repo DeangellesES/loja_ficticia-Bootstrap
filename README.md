@@ -1,5 +1,18 @@
 # <h1 align="center">Site de uma loja desenvolvida durante um curso de Bootstrap, responsivo para todas as telas.</h1>
 
+## 🚀 Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
+</div>
+<!-- ## Tecnologias utilizadas durante o curso
+
+ -->
+<!-- ## Tecnologias utilizadas no projeto
+* HTML
+* CSS -->
+
 <br>
 <h3 align="center">Tela para desktop</h3>
 <div align="center">
