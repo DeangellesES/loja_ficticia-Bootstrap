@@ -1,4 +1,4 @@
-# <h1 align="center">Site de uma loja desenvolvida durante um curso de Bootstrap, responsivo para todas as telas.</h1>
+<!-- # <h1 align="center">Site de uma loja desenvolvida durante um curso de Bootstrap, responsivo para todas as telas.</h1>
 <br>
 <h3 align="start">link do site</h3>
 
@@ -16,7 +16,7 @@
 <!-- ## Tecnologias utilizadas no projeto
 * HTML
 * CSS -->
-
+<!--
 <br>
 <h3 align="center">Tela para desktop</h3>
 <div align="center">
@@ -31,4 +31,22 @@
 <h3 align="center">Tela para mobile</h3>
 <div align="center">
   <img src="https://github.com/DeangellesES/loja_ficticia-Bootstrap/blob/main/tela%20mobile.png" width="300">
-</div>
+</div> -->
+
+<h1>Projeto: Site de uma Loja de Roupas e Acessórios</h1>
+
+<h2>📌 Sobre o Projeto</h2>
+<p>Este é um site ficticio simples de uma Loja de vendas de Roupas e Acessórios, desenvolvido para treinar o framework Bootstrap de CSS.</p>
+
+<h3>💻<a href="https://deangelleses.github.io/loja_ficticia-Bootstrap/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+
+<h2>🚀 Tecnologias Utilizadas</h2>
+<ul>
+  <li><b>HTML5</b></li>
+  <li><b>CSS3</b> - Bootstrap - Responsivo para mobile e tablet</li>
+</ul>
+
+<h2>⚙️ Funcionalidades</h2>
+<ul>
+  <li>Site ficticio de venda de roupas e acessórios</li>
+</ul>
