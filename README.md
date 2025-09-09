@@ -46,7 +46,14 @@
   <li><b>CSS3</b> - Bootstrap - Responsivo para mobile e tablet</li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Site ficticio de venda de roupas e acessórios</li>
+</ul>
+
+<h2>⚙️ Detalhes Técnicos</h2>
+<ul>
+  <li>imagem fiveicon na aba</li>
+  <li>cdn bootstrap no head e cdn no script</li>
+  <li>Funcionalidade carrossel feito com bootstrap</li>
 </ul>
